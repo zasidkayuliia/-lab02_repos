@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LR 2.1.cpp",
               "DocumentMoniker": "C:\\Users\\Dara\\source\\repos\\LR 2.1\\LR 2.1\\LR 2.1.cpp",
               "RelativeDocumentMoniker": "LR 2.1\\LR 2.1.cpp",
-              "ToolTip": "C:\\Users\\Dara\\source\\repos\\LR 2.1\\LR 2.1\\LR 2.1.cpp",
-              "RelativeToolTip": "LR 2.1\\LR 2.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Dara\\source\\repos\\LR 2.1\\LR 2.1\\LR 2.1.cpp*",
+              "RelativeToolTip": "LR 2.1\\LR 2.1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-16T21:02:27.374Z",
               "EditorCaption": ""

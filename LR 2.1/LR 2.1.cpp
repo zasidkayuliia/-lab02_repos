@@ -1,6 +1,8 @@
 ﻿#include <iostream>
 #include <cmath>
 
+
+
 using namespace std;
 double ctg(double x) {
 	return 1 / tan(x);// формула для обчислення ctg
